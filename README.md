@@ -1,7 +1,7 @@
 # Web3-Recruitment-website
 Web3招聘网站汇总｜Summary of Web3 Recruitment Websites
 
-## 前言
+## 📄 前言
 对于想进入Web3行业去工作的朋友，经常会发愁于找不到相关的求职信息发布平台。<br>
 想要开展相关领域招聘的公司，也会有难以在传统的大众招聘平台找到人才的问题。
 
