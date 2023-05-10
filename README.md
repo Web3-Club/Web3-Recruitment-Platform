@@ -9,11 +9,6 @@ Web3招聘网站汇总｜Summary of Web3 Recruitment Websites
 
 **注意：在阅读接下来的内容之前，建议请先阅读[免责声明](https://github.com/Web3-Club/Web3-Recruitment-Website/blob/main/README.md#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E )。**
 
-（按照首字母排序）
-
-### AbetterWeb3
-
-
 ## 免责声明
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
 
