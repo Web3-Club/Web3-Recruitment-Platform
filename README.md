@@ -96,6 +96,20 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 ### 简介
 一个含有Web3招聘信息汇总的谷歌表格
 
+## who-is-hiring / rebase-network
+
+仓库链接：[who-is-hiring](https://github.com/rebase-network/who-is-hiring)
+
+### 语言
+中文
+
+### 简介
+一个收集区块链工作机会的GitHub仓库。
+
+该平台从各种科技公司收集和汇总了工作空缺。
+
+该存储库对有兴趣找到技术工作机会的求职者有帮助，因为它提供了一个集中的位置来浏览多家公司的工作清单。
+
 ## 免责声明
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
 
