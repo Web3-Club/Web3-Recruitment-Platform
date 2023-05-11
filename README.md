@@ -32,6 +32,7 @@ AbetterWeb3致力于找到最好的人才，同时也为求职者提供了更多
 
 因此，该平台还提供了Web3行业的学习资源和技术博客，帮助用户了解行业趋势、技术变化和最佳实践。
 
+<br>
 
 ## Cryptocurrency Jobs
 官网链接：[Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
@@ -47,6 +48,7 @@ Cryptocurrency Jobs 是一个Web3招聘网站。它的目标是为数字货币�
 
 比如 NFT、DAO、DeFi 等等。
 
+<br>
 
 ## DeFi Jobs
 官网链接：[DeFi Jobs](https://www.defi.jobs/)
@@ -61,6 +63,8 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 
 使用DeFi.jobs非常简单，用户只需浏览正在发布的的工作机会即可。
 
+<br>
+
 ## Crypto.jobs
 
 官网链接：[crypto.jobs](https://crypto.jobs/)
@@ -73,6 +77,7 @@ CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领
 
 除了工作机会外，CryptoJobs还提供许多教育资源，使用户能够了解Web3生态系统以及最新的加密货币发展趋势。
 
+<br>
 
 ## Web3 Career
 
@@ -86,6 +91,8 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 
 该网站提供零散的工作岗位和远程工作机会，包括软件工程、产品管理、市场营销等不同职位。
 
+<br>
+
 ## Web3 Job Database
 
 官网链接：[Web3 Job Database](https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit#gid=870926729)
@@ -95,6 +102,8 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 
 ### 简介
 一个含有Web3招聘信息汇总的谷歌表格
+
+<br>
 
 ## who-is-hiring / rebase-network
 
@@ -109,6 +118,18 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 该平台从各种科技公司收集和汇总了工作空缺。
 
 该存储库对有兴趣找到技术工作机会的求职者有帮助，因为它提供了一个集中的位置来浏览多家公司的工作清单。
+
+<br>
+
+## 💐 赞助我们
+🪙 ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
+
+您的姓名或昵称将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
+**感谢您对我们社区未来健康发展所作出的支持**
+
+## 商务合作｜加入交流群
+WeChat：YanboTravelAllWorld
+
 
 ## 免责声明
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
