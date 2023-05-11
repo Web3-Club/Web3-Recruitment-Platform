@@ -12,9 +12,12 @@ Web3招聘网站汇总｜Summary of Web3 Recruitment Websites
 （按照首字母排序）
 
 ## AbetterWeb3
-![截屏2023-05-10 下午9.44.48.png](..%2F..%2FDesktop%2F%E6%88%AA%E5%B1%8F2023-05-10%20%E4%B8%8B%E5%8D%889.44.48.png)
+
+官网链接：[abetterweb3](https://abetterweb3.notion.site/)
+
 ### 语言
 中文
+
 ### 简介
 AbetterWeb3是一个基于Notion应用程序的中文Web3招聘社区。
 
@@ -28,11 +31,21 @@ AbetterWeb3致力于找到最好的人才，同时也为求职者提供了更多
 
 因此，该平台还提供了Web3行业的学习资源和技术博客，帮助用户了解行业趋势、技术变化和最佳实践。
 
-## 
+## Cryptocurrency Jobs
+
+Cryptocurrency Jobs 是一个Web3招聘网站。它的目标是为数字货币和区块链行业提供最好的人才招聘服务。
+
+该网站提供全球范围内的远程和本地工作机会，
+
+比如 NFT、DAO、DeFi 等等。
+
+### 语言
+英语
+
+
 
 ## DeFiJobs
-
-![截屏2023-05-10 下午11.36.54.png](..%2F..%2FDesktop%2F%E6%88%AA%E5%B1%8F2023-05-10%20%E4%B8%8B%E5%8D%8811.36.54.png)
+官网链接：[DeFi Jobs](https://www.defi.jobs/)
 
 ### 语言
 英语
@@ -40,15 +53,26 @@ AbetterWeb3致力于找到最好的人才，同时也为求职者提供了更多
 ### 简介
 DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提供招聘服务的网站。它提供了各种类型的工作机会，包括开发、设计、运营、市场营销等不同领域。该网站的目标是建立一个透明、可靠、高效的招聘平台，帮助有意愿加入DeFi行业的人才快速找到合适的职位。使用DeFi.jobs非常简单，用户只需浏览正在发布的的工作机会即可。
 
+## crypto.jobs
+CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领域的雇主和求职者。该网站提供充满活力的工作机会，适合具有编程、市场营销、审计和其他各种技能的求职者。
+
+除了工作机会外，CryptoJobs还提供许多教育资源，使用户能够了解Web3生态系统以及最新的加密货币发展趋势。
+
+官网链接：[crypto.jobs](https://crypto.jobs/)
+
 ## Web3 Career
+
+官方网站：[Web3 Career](https://web3.career/)
 
 ### 语言
 英语
 
 ### 简介
+Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘者在数字货币和区块链领域找到最佳的人才，同时也为求职者提供了一个寻找Web3行业工作机会的平台。
+
+该网站提供零散的工作岗位和远程工作机会，包括软件工程、产品管理、市场营销等不同职位。
 
 
-Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘者在数字货币和区块链领域找到最佳的人才，同时也为求职者提供了一个寻找Web3行业工作机会的平台。该网站提供零散的工作岗位和远程工作机会，包括软件工程、产品管理、市场营销等不同职位。
 ## 免责声明
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
 
