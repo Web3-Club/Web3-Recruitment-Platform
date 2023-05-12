@@ -128,7 +128,7 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 ## 💐 赞助我们
 🪙 ``0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb``
 
-您的姓名或昵称将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
+您的钱包地址将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
 **感谢您对我们社区未来健康发展所作出的支持**
 
 ## 商务合作｜加入交流群
