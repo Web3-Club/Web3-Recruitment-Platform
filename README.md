@@ -1,5 +1,5 @@
 # Web3-Recruitment-website
-Web3招聘网站汇总｜Summary of Web3 Recruitment Websites
+Web3招聘平台、频道汇总｜Summary of Web3 Recruitment Websites
 
 # 📄 前言
 对于想进入Web3行业去工作的朋友，经常会发愁于找不到相关的求职信息发布平台。<br>
@@ -82,6 +82,19 @@ CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领
 除了工作机会外，CryptoJobs还提供许多教育资源，使用户能够了解Web3生态系统以及最新的加密货币发展趋势。
 
 <br>
+
+## Smart Deer
+
+[官网链接](https://smartdeer.com)
+
+### 语言
+英语
+
+### 简介
+SmartDeer 是面向全球市场、专注于 Web3 项目和人才连接的招聘平台，为全球 Web3 builders 提供更灵活、更高薪、更面向未来、更高价值捕获的机会。
+
+目前有 iOS 和 Android 双端 app。 
+
 
 ## Web3 Career
 
