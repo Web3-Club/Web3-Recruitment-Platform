@@ -83,6 +83,10 @@ CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领
 
 <br>
 
+## Foresight news｜Jobs
+[链接]（https://foresightnews.pro/job）
+
+
 ## Smart Deer
 
 [官网链接](https://smartdeer.com)
