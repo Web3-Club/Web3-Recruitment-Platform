@@ -54,6 +54,22 @@ Cryptocurrency Jobs 是一个Web3招聘网站。它的目标是为数字货币�
 
 <br>
 
+
+
+## Crypto.jobs
+
+官网链接：[crypto.jobs](https://crypto.jobs/)
+
+### 语言
+英语
+
+### 简介
+CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领域的雇主和求职者。该网站提供充满活力的工作机会，适合具有编程、市场营销、审计和其他各种技能的求职者。
+
+除了工作机会外，CryptoJobs还提供许多教育资源，使用户能够了解Web3生态系统以及最新的加密货币发展趋势。
+
+<br>
+
 ## DeFi Jobs
 官网链接：[DeFi Jobs](https://www.defi.jobs/)
 
@@ -69,19 +85,6 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 
 <br>
 
-## Crypto.jobs
-
-官网链接：[crypto.jobs](https://crypto.jobs/)
-
-### 语言
-英语
-
-### 简介
-CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领域的雇主和求职者。该网站提供充满活力的工作机会，适合具有编程、市场营销、审计和其他各种技能的求职者。
-
-除了工作机会外，CryptoJobs还提供许多教育资源，使用户能够了解Web3生态系统以及最新的加密货币发展趋势。
-
-<br>
 
 ## Foresight news｜Jobs
 [链接](https://foresightnews.pro/job)
