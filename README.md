@@ -103,6 +103,8 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 
 你可以在电鸭社区找到Web3远程工作。
 
+<br>
+
 ## Foresight news｜Jobs
 [链接](https://foresightnews.pro/job)
 
