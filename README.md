@@ -128,7 +128,8 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 英语
 
 ### 简介
-> The OpenRecruitment Network
+> The OpenRecruitment Network <br>
+
 > Job Protocol connects companies with an ecosystem of talent partners to hire the right candidate faster and cheaper. Get started in the network as a freelance recruiter, agency, community, job board, HR tech business, publication, event...
 
 ## Smart Deer
