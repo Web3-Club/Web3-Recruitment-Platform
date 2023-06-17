@@ -117,6 +117,7 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 
 其中的「Job」板块 有相当多的Web3招聘信息发布 而且可以一键筛选“只看中文招聘”。
 
+<br>
 
 ## Smart Deer
 
