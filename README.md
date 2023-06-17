@@ -122,7 +122,6 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 
 [官网链接](https://smartdeer.com)
 
-https://stablegram.com/
 ### 语言
 英语+中文 （依照系统语言 会有所调整）
 
