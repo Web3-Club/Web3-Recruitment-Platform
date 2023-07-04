@@ -22,7 +22,7 @@ Web3招聘平台、频道汇总｜Summary of Web3 Recruitment Websites
 官网链接：[Abetterweb3](https://abetterweb3.notion.site/)
 
 ### 语言
-中文
+中文 
 
 ### 简介
 
@@ -156,6 +156,25 @@ SmartDeer 是面向全球市场、专注于 Web3 项目和人才连接的招聘�
 > We help talent to find the most promising Web3 companies
 Find a crypto career you'll love.
 
+
+## Tintinland Job 看板
+[官方链接](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)
+
+
+## 语言
+中文 
+
+## 简介
+
+TinTinLand是一个专注于Web3开发者社区的平台。
+
+聚焦于推动区块链技术的发展，为开发者提供前沿的科技资讯、技术课程、研讨会、黑客松创业大赛及行业招聘。
+
+他们致力于支持Web3开发者的成长，并赋能更多的人加入并参与到Web3的建设中来。
+
+也欢迎你加入链接全球的爱好者、开发者、创业者的TinTinLand社区，共同定义并构建未来。
+
+（以上官方链接是Tintinland社区 的官方工作看板）
 
 ## Web3 Career
 
