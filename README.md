@@ -1,4 +1,4 @@
-# Web3&Remote-Recruitment-Website
+# Web3-Recruitment-Website
 Web3招聘平台、频道汇总｜Summary of Web3 Recruitment Websites
 
 <br>
