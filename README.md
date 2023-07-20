@@ -1,7 +1,10 @@
 # Web3-Recruitment-Website
 Web3招聘平台、频道汇总｜Summary of Web3 Recruitment Websites
 
-# 已更新 家平台
+<br>
+<br>
+
+# 已更新 13 家平台
 
 # 📄 前言
 在国内&国外 对于想进入Web3行业去工作的朋友，经常会发愁于找不到相关的求职信息发布平台。<br>
