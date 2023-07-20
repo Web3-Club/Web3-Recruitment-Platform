@@ -235,7 +235,7 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 您的钱包地址将出现在[赞助榜](https://github.com/Web3-Club/Sponsor)界面上。<br>  
 **感谢您对我们社区未来健康发展所作出的支持**
 
-## 商务合作｜加入交流群
+## 加入交流群
 WeChat：YanboTravelAllWorld
 
 ## 致谢
