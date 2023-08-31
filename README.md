@@ -7,7 +7,7 @@ Web3招聘平台、频道汇总｜Summary of Web3 Recruitment Websites
 
 
 
-#  已更新 13 家平台
+#  已更新 14 家平台
 （更新：2023/07/20）
 
 
@@ -145,6 +145,13 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 > Job Protocol connects companies with an ecosystem of talent partners to hire the right candidate faster and cheaper. Get started in the network as a freelance recruiter, agency, community, job board, HR tech business, publication, event...
 
 <br>
+
+## Rebase
+
+[官网链接](https://rebase.network/job)
+
+
+
 
 ## Smart Deer
 
