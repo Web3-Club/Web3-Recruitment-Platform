@@ -103,7 +103,7 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 ## DeJob
 链接：
 
-[官网](https://www.dejob.top/)|[中文频道](https://t.me/DeJob_official)|[英文频道](https://t.me/DeJob_Global)
+[官网](https://www.dejob.top/) | [中文频道](https://t.me/DeJob_official) | [英文频道](https://t.me/DeJob_Global)
 
 ### 语言
 中文 英语
