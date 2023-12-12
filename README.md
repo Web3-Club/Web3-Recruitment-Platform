@@ -276,7 +276,7 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 **感谢您对我们社区未来健康发展所作出的支持**
 
 ## 加入交流群
-WeChat：YanboTravelAllWorld
+WeChat：YanboAtWeb3
 
 ## 致谢
 感谢 @JiceJin 对本项目的贡献与支持
