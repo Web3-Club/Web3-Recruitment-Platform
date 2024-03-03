@@ -8,7 +8,7 @@ Web3招聘平台、频道汇总｜Summary of Web3 Recruitment Websites
 
 
 #  已更新 15 家平台
-（更新：2023/09/19）
+（最后一次更新：2023/09/19）
 
 
 # 📄 前言
