@@ -112,6 +112,19 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 
 DeJob，是一个专注于Web3的公益性质招聘求职平台。
 
+<br>
+
+## 登链招聘
+
+链接：
+
+[learnblockchain](https://learnblockchain.cn/jobs)
+
+### 简介
+
+登链社区是一个开放的社区，社区成员一起贡献、相互分享并引以为傲。
+
+以上链接是登链官网官网的招聘专栏
 
 <br>
 
