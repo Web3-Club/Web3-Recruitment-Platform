@@ -86,7 +86,7 @@ CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领
 <br>
 
 ## DeFi Jobs
-官网链接：[DeFi Jobs](https://www.defi.jobs/)
+链接：[DeFi Jobs](https://www.defi.jobs/)
 
 ### 语言
 英语
@@ -112,6 +112,22 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 
 DeJob，是一个专注于Web3的公益性质招聘求职平台。
 
+<br>
+
+## 登链招聘
+
+### 语言
+中文
+
+链接：
+
+[learnblockchain](https://learnblockchain.cn/jobs)
+
+### 简介
+
+登链社区是一个开放的社区，社区成员一起贡献、相互分享并引以为傲。
+
+以上链接是登链官网官网的招聘专栏
 
 <br>
 
