@@ -32,7 +32,9 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Web
 
 ## AbetterWeb3
 
-官网链接：[Abetterweb3](https://abetterweb3.notion.site/)
+### 链接
+
+[Abetterweb3](https://abetterweb3.notion.site/)
 
 ### 语言
 中文 
@@ -54,7 +56,9 @@ AbetterWeb3致力于找到最好的人才，同时也为求职者提供了更多
 <br>
 
 ## Cryptocurrency Jobs
-官网链接：[Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
+### 链接
+
+[Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 
 ### 语言
 英语
@@ -73,7 +77,9 @@ Cryptocurrency Jobs 是一个Web3招聘网站。它的目标是为数字货币�
 
 ## Crypto.jobs
 
-官网链接：[crypto.jobs](https://crypto.jobs/)
+### 链接
+
+[crypto.jobs](https://crypto.jobs/)
 
 ### 语言
 英语
@@ -86,7 +92,9 @@ CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领
 <br>
 
 ## DeFi Jobs
-链接：[DeFi Jobs](https://www.defi.jobs/)
+### 链接
+
+[DeFi Jobs](https://www.defi.jobs/)
 
 ### 语言
 英语
@@ -101,7 +109,7 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 <br>
 
 ## DeJob
-链接：
+### 链接
 
 [官网](https://www.dejob.top/) | [中文频道](https://t.me/DeJob_official) | [英文频道](https://t.me/DeJob_Global)
 
@@ -119,7 +127,7 @@ DeJob，是一个专注于Web3的公益性质招聘求职平台。
 ### 语言
 中文
 
-链接：
+### 链接
 
 [learnblockchain](https://learnblockchain.cn/jobs)
 
@@ -133,7 +141,9 @@ DeJob，是一个专注于Web3的公益性质招聘求职平台。
 
 
 ## 电鸭社区
-官网链接：[电鸭社区](https://eleduck.com)
+### 链接
+
+[电鸭社区](https://eleduck.com)
 
 ### 语言
 中文
@@ -153,7 +163,9 @@ DeJob，是一个专注于Web3的公益性质招聘求职平台。
 <br>
 
 ## Foresight news｜Jobs
-[链接](https://foresightnews.pro/job)
+
+### 链接
+[Foresight news｜Jobs](https://foresightnews.pro/job)
 
 ### 语言
 中文+英语（平台有筛选按钮）
@@ -167,7 +179,9 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 <br>
 
 ## Job Protocol
-[官网链接](https://www.jobprotocol.xyz/) 
+
+### 链接
+[Job Protocol](https://www.jobprotocol.xyz/) 
 
 ### 语言
 英语
@@ -180,19 +194,19 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 <br>
 
 ## Rebase
+### 链接
 
-[官网链接](https://rebase.network/job)
+[Rebase](https://rebase.network/job)
 
 <br>
 
 
 
 
-
-
 ## Smart Deer
+### 链接
 
-[官网链接](https://smartdeer.com)
+[Smart Deer](https://smartdeer.com)
 
 ### 语言
 英语+中文 （依照系统语言 会有所调整）
@@ -206,7 +220,8 @@ SmartDeer 是面向全球市场、专注于 Web3 项目和人才连接的招聘�
 <br>
 
 ## Stablegram
-[官方链接](https://stablegram.com/)
+### 链接
+[Stablegram](https://stablegram.com/)
 
 ### 语言
 英语
@@ -221,7 +236,10 @@ Find a crypto career you'll love.
 
 
 ## Tintinland Job 看板
-[官方链接](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)
+
+### 链接
+
+[Tintinland Job](https://attractive-spade-1e3.notion.site/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f)
 
 ### 语言
 中文 
@@ -243,7 +261,9 @@ TinTinLand是一个专注于Web3开发者社区的平台。
 
 ## Web3 Career
 
-官网链接：[Web3 Career](https://web3.career/)
+### 链接
+
+[Web3 Career](https://web3.career/)
 
 ### 语言
 英语
@@ -257,7 +277,9 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 
 ## Web3 Job Database
 
-官网链接：[Web3 Job Database](https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit#gid=870926729)
+### 链接
+
+[Web3 Job Database](https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit#gid=870926729)
 
 ### 语言
 英语
@@ -269,7 +291,9 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 
 ## who-is-hiring / rebase-network
 
-仓库链接：[who-is-hiring](https://github.com/rebase-network/who-is-hiring)
+### 链接
+
+[who-is-hiring](https://github.com/rebase-network/who-is-hiring)
 
 ### 语言
 中文
