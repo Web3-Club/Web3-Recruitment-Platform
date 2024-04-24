@@ -162,6 +162,19 @@ DeJob，是一个专注于Web3的公益性质招聘求职平台。
 
 <br>
 
+## Dynamite Jobs
+
+### 链接
+[Dynamite Jobs](https://dynamitejobs.com/)
+
+### 语言
+英语
+
+### 简介
+初创/小型企业远程招聘平台
+
+<br>
+
 ## Foresight news｜Jobs
 
 ### 链接
@@ -175,6 +188,20 @@ DeJob，是一个专注于Web3的公益性质招聘求职平台。
 Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，秉持中立、客观及开放的态度，希望与读者们一起「遇见」未来。
 
 其中的「Job」板块 有相当多的Web3招聘信息发布 而且可以一键筛选“只看中文招聘”。
+
+<br>
+
+## JustRemote
+
+### 链接
+[JustRemote](https://justremote.co/)
+
+### 语言
+英语
+
+### 简介
+
+小众的远程招聘平台（部分职位需要付费查看）
 
 <br>
 
@@ -306,6 +333,19 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 该存储库对有兴趣找到技术工作机会的求职者有帮助，因为它提供了一个集中的位置来浏览多家公司的工作清单。
 
 <br>
+
+## Wellfound
+
+### 链接
+
+[Wellfound](https://wellfound.com/)
+
+### 语言
+英语
+
+### 简介
+
+初创公司为主的远程招聘平台
 
 ## 💐 赞助我们
 ### 通过Donate3
