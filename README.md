@@ -7,8 +7,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Web
 
 
 
-#  已更新 19 家平台
-（最后一次更新：2024/04/24）
+#  已更新 20 家平台
+（最后一次更新：2024/05/08）
 
 
 # 📄 前言
@@ -220,14 +220,44 @@ Froesight是一家聚焦Crypto 及Web3 等前沿领域的中文内容平台，�
 
 <br>
 
-## Rebase
-### 链接
+## Linkedin/领英
 
-[Rebase](https://rebase.network/job)
+
+### 链接
+[Linkedin](https://www.linkedin.com/)
+
+
+### 语言
+全语言
+
+### 简介
+
+领英作为职场社交软件，其中亦可以找到Web3/Remote工作，虽然查找难度可能相比纯Web3招聘平台要难。
 
 <br>
 
+## Rebase
+### 链接
+[Rebase](https://rebase.network/job)
 
+### 语言
+中文
+
+### 简介
+Rebase 开发者社区的招聘信息
+
+<br>
+
+## Remote3.co
+### 链接
+
+[Remote3](https://remote3.co/web3-jobs)
+
+### 语言
+英语
+
+### 简介
+Discover 4,100+ remote Web3 Jobs around the world at companies working on blockchain, smart contract, DeFi, NFT, crypto etc.
 
 
 ## Smart Deer
