@@ -7,8 +7,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Web
 
 
 
-#  已更新 20 家平台
-（最后一次更新：2024/05/08）
+#  已更新 21 家平台
+（最后一次更新：2024/05/10）
 
 
 # 📄 前言
@@ -259,6 +259,17 @@ Rebase 开发者社区的招聘信息
 ### 简介
 Discover 4,100+ remote Web3 Jobs around the world at companies working on blockchain, smart contract, DeFi, NFT, crypto etc.
 
+## Remote-Jobs
+### 链接
+
+[remote-jobs](https://github.com/remoteintech/remote-jobs)
+
+### 语言
+英语
+
+### 简介
+一个拥有27.8k（截止到2024.05）stars数量的GitHub仓库，内容是支持远程工作公司汇总列表，一共有700+公司。
+
 <br>
 
 ## Smart Deer
@@ -377,6 +388,23 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 ### 简介
 
 初创公司为主的远程招聘平台
+
+
+# 附录
+
+## Web3面试思路及问题整理 - The Web3
+
+### 链接
+
+[chaineye-blockchain-interview](https://github.com/the-web3/chaineye-blockchain-interview)
+
+<br>
+
+## Web3可疑公司黑名单
+
+### 链接
+
+[AbetterWeb3](https://abetterweb3.notion.site/6aeadfdaeded4c159155fa87a6b3a4c6?v=e89a605279814fc48fa8b3e07990e68e)
 
 
 <br>
