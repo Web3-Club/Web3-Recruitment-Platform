@@ -259,6 +259,17 @@ Rebase 开发者社区的招聘信息
 ### 简介
 Discover 4,100+ remote Web3 Jobs around the world at companies working on blockchain, smart contract, DeFi, NFT, crypto etc.
 
+## Remote-Jobs
+### 链接
+
+[remote-jobs](https://github.com/remoteintech/remote-jobs)
+
+### 语言
+英语
+
+### 简介
+一个拥有27.8k（截止到2024.05）stars数量的GitHub仓库，内容是支持远程工作公司汇总列表，一共有700+公司。
+
 <br>
 
 ## Smart Deer
