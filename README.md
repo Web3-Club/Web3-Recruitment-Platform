@@ -409,6 +409,10 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 
 <br>
 
+## 贡献者
+
+[![contrib graph](https://contrib.rocks/image?repo=Web3-Club/Web3-Recruitment-Website)](https://github.com/Web3-Club/Web3-Recruitment-Website/graphs/contributors)  
+
 ## 💐 赞助我们
 ### 通过Donate3
 
