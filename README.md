@@ -7,8 +7,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Web
 
 
 
-#  已更新 21 家平台
-（最后一次更新：2024/05/10）
+#  已更新 23 家平台
+（最后一次更新：2024/06/26）
 
 
 # 📄 前言
@@ -297,11 +297,29 @@ SmartDeer 是面向全球市场、专注于 Web3 项目和人才连接的招聘�
 
 ### 简介
 > We help talent to find the most promising Web3 companies
-Find a crypto career you'll love.
-
+> Find a crypto career you'll love.
 
 <br>
 <br>
+
+## Talentverse Platform
+
+### 链接
+
+[Talentverse Position List](https://talent-verse.notion.site/Talentverse-690e2af2939346b1bace7a7bb959c12d)
+
+### 语言
+
+中文 英语(具体视招聘方JD)
+
+### 简介
+
+> Talentverse是一家刚创立不久的专注于Web3及AI等新兴领域的人才招聘平台，致力于为区块链和人工智能领域的企业提供最优质的人才服务。团队Base在亚洲和北美，由资深猎头、知名项目方运营专家和名校区块链协会骨干组成。成员大多来自互联网大厂和头部交易所，拥有清北名校背景和多年猎头招聘经验。(来自官网About)
+
+<br>
+<br>
+
+
 
 
 ## Tintinland Job 看板
@@ -326,6 +344,22 @@ TinTinLand是一个专注于Web3开发者社区的平台。
 （以上官方链接是Tintinland社区 的官方工作看板）
 
 <br>
+<br>
+
+## Up Work
+
+### 链接
+
+[Up Work](https://www.upwork.com/)
+
+### 语言
+
+英语
+
+### 简介
+
+Upwork 是一个全球性的自由职业市场平台，它连接了来自世界各地的自由职业者和客户。自由职业者可以在该平台上提供各种服务，包括但不限于编程、设计、写作、翻译、营销等。客户则可以在平台上发布工作需求，寻找合适的自由职业者来完成特定任务或项目。Upwork 提供了一个在线工作环境，使得远程工作和协作变得更加便捷。此外，它还提供了一些工具来帮助管理项目、支付和合同等。该平台面向国际,因此除了专业技能外,对于英语要求较高。
+
 <br>
 
 ## Web3 Career
