@@ -348,11 +348,11 @@ TinTinLand是一个专注于Web3开发者社区的平台。
 <br>
 <br>
 
-## Up Work
+## UpWork
 
 ### 链接
 
-[Up Work](https://www.upwork.com/)
+[UpWork](https://www.upwork.com/)
 
 ### 语言
 
