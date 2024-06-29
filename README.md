@@ -383,6 +383,7 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 
 <br>
 
+
 ## Web3 Frontend
 
 ### 公众号名称
@@ -394,6 +395,7 @@ Web3 Frontend
 ### 简介
 一个非常全面的、分享Web3前端信息的公众号平台。具有严格的筛查机制，提高Web3前端，移动端UX产品体验.
 
+<br>
 
 ## Web3 Job Database
 
