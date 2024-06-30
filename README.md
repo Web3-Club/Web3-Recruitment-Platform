@@ -19,7 +19,9 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Web
 
 （该仓库中 亦包括一些远程工作招聘平台 其中有部分Web3行业的招聘信息）
 
-如果该项目对你有帮助 欢迎Star支持
+如果该项目对你有帮助 **欢迎Star支持**
+
+---
 
 **注意：在阅读接下来的内容之前，建议请先阅读[免责声明](https://github.com/Web3-Club/Web3-Recruitment-Website/blob/main/README.md#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E )。**
 
