@@ -7,8 +7,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 
 
-#  已更新 24 家平台
-（最后一次更新：2024/06/26）
+#  已更新 25 家平台
+（最后一次更新：2024/09/09）
 
 
 # 📄 前言
@@ -351,6 +351,20 @@ TinTinLand是一个专注于Web3开发者社区的平台。
 （以上官方链接是Tintinland社区 的官方工作看板）
 
 <br>
+<br>
+
+## Solana Job
+
+### 链接
+[Solana Job](https://jobs.solana.com/jobs)
+
+### 语言
+英语
+
+### 简介
+
+Solana Job 是Solana 官方提供的一个招聘平台，其中大部分机会是Solana 链的，也有少量其他链的机会。但是基本都是海外的一些公司，因此除了专业技能外,对于英语要求较高。
+
 <br>
 
 ## UpWork
