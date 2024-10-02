@@ -7,8 +7,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 
 
-#  已更新 25 家平台
-（最后一次更新：2024/09/09）
+#  已更新 28 家平台
+（最后一次更新：2024/10/02）
 
 
 # 📄 前言
@@ -399,6 +399,18 @@ Web3 Career是一个专门面向Web3行业的职业平台，旨在帮助招聘�
 
 <br>
 
+## Web3 Expert
+
+### 链接
+[Web3 Expert](https://web3-expert.com/)
+
+### 语言
+日语
+
+### 简介
+日本首个专门面向Web3领域的招聘网站。包括全职、自由职业和兼职，适合希望在Web3创业公司或远程工作的人。
+
+<br>
 
 ## Web3 Frontend
 
@@ -427,6 +439,21 @@ Web3 Frontend
 
 <br>
 
+### Web3-Jobs.jp
+
+### 链接
+[Web3-Jobs.jp](https://web3-job.jp/)
+
+### 语言
+日语
+
+### 简介
+ゲーム・エンタメ業界に特化したフリーランスエージェントであるコンフィデンス・プロが提供するWeb3.0特化の案件サイトです。
+
+聚焦于快速匹配需求，界面更加简洁流畅。使用体验不错。
+
+<br>
+
 ## who-is-hiring / rebase-network
 
 ### 链接
@@ -444,6 +471,23 @@ Web3 Frontend
 该存储库对有兴趣找到技术工作机会的求职者有帮助，因为它提供了一个集中的位置来浏览多家公司的工作清单。
 
 <br>
+
+## WithB
+
+### 链接
+[WithB](https://withb.co.jp/)
+
+
+### 语言
+日语
+
+### 简介
+ブロックチェーン・暗号資産・WEB3業界の求人メディア 
+
+会提供详细的企业背景信息和职位说明，更适合寻找长远职业发展的大佬。
+
+<br>
+
 
 ## Wellfound
 
@@ -520,7 +564,7 @@ YSightDAO官方求职信息/人才库发布地
 WeChat：YanboAtWeb3
 
 ## 致谢
-感谢 @JiceJin @GeeekerK 对本项目的贡献与支持
+感谢 @JiceJin @GeeekerK [@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222) 对本项目的贡献与支持
 
 ## 免责声明
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
