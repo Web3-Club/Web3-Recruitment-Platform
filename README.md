@@ -568,7 +568,7 @@ YSightDAO官方求职信息/人才库发布地
 WeChat：YanboAtWeb3
 
 ## 致谢
-感谢 @JiceJin @GeeekerK [@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222) 对本项目的贡献与支持
+感谢 @JiceJin @GeeekerK [@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222_) 对本项目的贡献与支持
 
 ## 免责声明
 All information provided by this project is for reference and use only, and cannot guarantee the accuracy, completeness and timeliness of the website content. This website is not responsible for any losses, injuries, or other incidents caused by the use of website information.
