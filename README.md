@@ -11,7 +11,7 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 
 
-#  已更新 29 家平台
+#  已更新 30 家平台
 （最后一次更新：2024/11/02）
 
 
@@ -267,6 +267,19 @@ Discover 4,100+ remote Web3 Jobs around the world at companies working on blockc
 
 <br>
 
+## @Remote_cn(远程工作者)
+
+### 链接
+
+[远程工作者](https://t.me/remote_cn)
+
+### 语言 
+中文
+
+### 简介
+中文区比较大的远程工作Telegram频道，会收集多家远程工作平台的招聘信息流。
+
+<br>
 
 ## Remote-Jobs
 ### 链接
