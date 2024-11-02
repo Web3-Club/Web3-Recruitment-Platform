@@ -11,8 +11,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 
 
-#  已更新 28 家平台
-（最后一次更新：2024/10/02）
+#  已更新 29 家平台
+（最后一次更新：2024/11/02）
 
 
 # 📄 前言
@@ -278,6 +278,18 @@ Discover 4,100+ remote Web3 Jobs around the world at companies working on blockc
 
 ### 简介
 一个拥有27.8k（截止到2024.05）stars数量的GitHub仓库，内容是支持远程工作公司汇总列表，一共有700+公司。
+
+<br>
+
+## RemoteOK
+### 链接
+[RemoteOK](https://remoteok.com/)
+
+### 语言
+英语
+
+### 简介
+独立开发者做的远程工作平台，信息容易筛选，有很多大厂相关信息。
 
 <br>
 
