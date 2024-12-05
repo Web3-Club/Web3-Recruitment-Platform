@@ -12,7 +12,7 @@
 
 后续将逐渐build起来 由社群转为平台 为大家的招聘和求职保驾护航 欢迎您进入体验～
 
-⬇️
+点击⬇️
 
 [![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
 
