@@ -1,3 +1,26 @@
+# ‼️ 重要信息
+
+我们自己做了一个招聘社群✈️ 
+
+基于我们在GitHub上的开源的全网流量最大的招聘平台信息库 
+
+后续将逐渐build起来 由社群转为平台 为大家的招聘和求职保驾护航 欢迎您进入体验～
+
+
+[![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # Web3-Recruitment-Platform
 Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Platform
 
