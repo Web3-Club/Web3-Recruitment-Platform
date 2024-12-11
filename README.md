@@ -669,6 +669,9 @@ YSightDAO官方求职信息/人才库发布地
 ## 加入交流群
 WeChat：YanboAtWeb3
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Web3-Club/Web3-Recruitment-Platform&type=Date)](https://star-history.com/#Web3-Club/Web3-Recruitment-Platform&Date)
 ## 致谢
 感谢 @JiceJin @GeeekerK [@扣扣米🫧🐟算无遗策web3](https://x.com/KOKOMI0222_) 对本项目的贡献与支持。
 
