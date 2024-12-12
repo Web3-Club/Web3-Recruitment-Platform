@@ -667,7 +667,8 @@ YSightDAO官方求职信息/人才库发布地
 **感谢您对我们社区未来健康发展所作出的支持**
 
 ## 加入交流群
-WeChat：YanboAtWeb3
+[![Telegram](https://img.shields.io/badge/@WorkWork-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WorkWorkWeb3) 
+
 
 ## Star History
 
