@@ -92,8 +92,9 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 
 
-#  已更新 30 家平台
-（最后一次更新：2024/11/02）
+#  已更新 29 家平台
+（最后一次更新：2024/12/13）
+
 
 
 # 📄 前言
@@ -611,25 +612,6 @@ Web3 Frontend
 ### 简介
 
 初创公司为主的远程招聘平台
-
-<br>
-
-## Ysight Talent
-
-### 链接
-
-[Ysight Talent-Telegram](https://t.me/YSight_Talent_web3_cn)
-
-[人才库](https://shimo.im/forms/RKAWVYW5xVC6M0k8/fill)
-
-### 语言
-中文
-
-### 简介
-YSightDAO官方求职信息/人才库发布地
-
-坚持以去中心化的方式为web3输送人才，纯公益招聘telegram频道
-
 
 
 <br>
