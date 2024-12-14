@@ -92,8 +92,8 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 
 
 
-#  已更新 29 家平台
-（最后一次更新：2024/12/13）
+#  已更新 31 家平台
+（最后一次更新：2024/12/14）
 
 
 
@@ -178,6 +178,34 @@ CryptoJobs是一家Web3招聘网站。它旨在连接数字货币和区块链领
 除了工作机会外，CryptoJobs还提供许多教育资源，使用户能够了解Web3生态系统以及最新的加密货币发展趋势。
 
 <br>
+
+## Cryptojobs.com
+
+### 链接
+
+[Cryptojobs.com](https://www.cryptojobs.com/)
+
+### 语言
+英语
+
+### 简介
+Cryptojobs.com 是连续创业者Carl Runefelt建立的招聘平台，该平台旨在为 Web3 组织和人才之间搭建桥梁。
+
+
+<br>
+
+## CryptoJobslist
+
+### 链接
+[CryptoJobslist](https://CryptoJobslist.com)
+
+### 语言
+英语
+
+### 简介
+
+<br>
+
 
 ## DeFi Jobs
 ### 链接
