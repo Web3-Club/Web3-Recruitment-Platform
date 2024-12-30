@@ -29,6 +29,7 @@
 #### 小红书
 
 #### X（Twitter）
+[X](https://x.com/WorkWorkWeb3)
 
 #### Instagram
 
