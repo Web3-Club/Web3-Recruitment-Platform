@@ -37,6 +37,13 @@
 ### 二维码
 ![1041734030325_ pic](https://github.com/user-attachments/assets/586d34f2-efa5-46c4-9f24-16036ef1250c)
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## 简历投递邮箱
 
 [![Mail](https://img.shields.io/badge/workworkinweb3@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:workworkinweb3@gmail.com)
