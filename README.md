@@ -1,9 +1,6 @@
 # ‼️ 重要信息
 # About WorkWork
 
-<br>
-
----
 
 ## 我们自己做了一个Web3/远程 招聘平台 WorkWork✈️ 
 
