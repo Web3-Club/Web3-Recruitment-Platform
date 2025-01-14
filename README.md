@@ -31,79 +31,13 @@
 ![1041734030325_ pic](https://github.com/user-attachments/assets/586d34f2-efa5-46c4-9f24-16036ef1250c)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## 简历投递邮箱
 
 [![Mail](https://img.shields.io/badge/workworkinweb3@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:workworkinweb3@gmail.com)
 
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 很快就到正文了 稍等一下！！！
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
 
 
 ---
@@ -114,10 +48,6 @@ Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Pla
 <br>
 
 中文 ｜ English
-
-<br>
-<br>
-
 
 
 
