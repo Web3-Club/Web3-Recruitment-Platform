@@ -37,9 +37,6 @@
 [![Mail](https://img.shields.io/badge/workworkinweb3@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:workworkinweb3@gmail.com)
 
 
-很快就到正文了 稍等一下！！！
-
-
 ---
 
 # Web3-Recruitment-Platform
