@@ -26,6 +26,8 @@
 
 #### Instagram
 
+#### 微信公众号
+
 
 ### 二维码
 ![1041734030325_ pic](https://github.com/user-attachments/assets/586d34f2-efa5-46c4-9f24-16036ef1250c)
