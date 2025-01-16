@@ -44,8 +44,6 @@
 # Web3-Recruitment-Platform
 Web3及远程工作招聘平台、频道汇总｜Summary of Web3 Recruitment Platform
 
-<br>
-
 中文 ｜ English
 
 
@@ -193,6 +191,8 @@ DeFi.jobs是一个专门为金融领域的去中心化金融（DeFi）项目提�
 ### 简介 
 
 DeJob，是一个专注于Web3的公益性质招聘求职平台。
+
+(注：从2025年年初开始，Dejob提交岗位超过1个需要收费)
 
 <br>
 
